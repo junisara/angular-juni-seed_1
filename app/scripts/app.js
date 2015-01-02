@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name m.modupetAppApp
+ * @name AppName
  * @description
- * # m.modupetAppApp
+ * # AppName
  *
  * Main module of the application.
  */
 angular
-  .module('m.modupetApp', [
+  .module('AppName', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
