@@ -12,7 +12,9 @@ $route가 적용되어 있는 버전임
 1. 먼저 node.js가 설치되어 있어야함
 2. bower가 설치되어야함  (> npm install -g bower )
 3. grunt가 설치되어야 함 (> npm install -g grunt-cli )
+
 ----
+
 4. 현재 폴더를 다운로드 받는다
 5. com창을 열고 해당 디렉토리로 이동한다
 6. npm install ---- 실행 ( npm package.json의 패키지를 자동 설치함) --> node_modules 폴더가 자동 생성됨
